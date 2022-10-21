@@ -1,0 +1,12 @@
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/bin/Debug/net6.0/code-challenge.deps.json
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/bin/Debug/net6.0/code-challenge.dll
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/bin/Debug/net6.0/code-challenge.pdb
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/obj/Debug/net6.0/code-challenge.csproj.AssemblyReference.cache
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/obj/Debug/net6.0/code-challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/obj/Debug/net6.0/code-challenge.AssemblyInfoInputs.cache
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/obj/Debug/net6.0/code-challenge.AssemblyInfo.cs
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/obj/Debug/net6.0/code-challenge.csproj.CoreCompileInputs.cache
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/obj/Debug/net6.0/code-challenge.dll
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/obj/Debug/net6.0/refint/code-challenge.dll
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/obj/Debug/net6.0/code-challenge.pdb
+/Users/fudeh/Desktop/Nibss/DotNet/common-code-challenge-questions/code-challenge/code-challenge/obj/Debug/net6.0/ref/code-challenge.dll
